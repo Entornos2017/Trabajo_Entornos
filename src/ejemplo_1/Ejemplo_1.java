@@ -17,7 +17,6 @@ public class Ejemplo_1 {
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.println("Borrar esto");
         
         System.out.println("Modificado anterior");
         
